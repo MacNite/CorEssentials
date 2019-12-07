@@ -17,8 +17,8 @@ CorEssentials is an open source corexy 3D printer.
 - Controller: Duet 2 Maestro with a total of 7 stepper drivers
 - Heated bed: KEENOVO 230V 600W heater
 - Power Supply: Meanwell 24V 10A 
-- Coldend cooling: 4010 axial fan
-- Part cooling: 2x 4010 blower fan
+- Coldend cooling: 2510 axial fan
+- Part cooling: 2x 3510 blower fan
 - Chamber filtration: 6025 axial fan
 - Electronics cooling: 2x 6025 axial fan
 - Linear Motion: CE MGN9H for xy gantry and 10mm rods for z
