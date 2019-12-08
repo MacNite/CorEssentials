@@ -28,3 +28,6 @@ CorEssentials is an open source corexy 3D printer.
 Find the Fusion360 model for your viewing pleasure here:
 
 https://a360.co/2q4ACzH
+
+
+![CorEssentials ALPHA](https://github.com/MacNite/CorEssentials/blob/master/CorEssentials_Outer.jpg?raw=true)
