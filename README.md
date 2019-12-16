@@ -13,7 +13,7 @@ ToDo until release of BETA-files
 - water cooling with Alphacool Eisbaer Solo
 - 40mm more z-height
 - better idler mount for xy motion
-- bette belt Tensioner for z-axis
+- better belt Tensioner for z-axis
 
 # general features
 - Built Volume: 250 mm x 250 x mm x 300 mm
