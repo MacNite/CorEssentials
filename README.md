@@ -6,7 +6,7 @@ ToDo until release of BETA-files
 - improve chambe HEPA filter mount
 - built Prototype
 
-# changes comapred to ALPHA
+# changes compared to ALPHA
 - Bed Leveling: Hardware bed leveling with 3 independent motors
 - HEPA-Filter
 - support for Dual Extrusion with E3D Chimera AQUA
