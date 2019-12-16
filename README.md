@@ -1,6 +1,6 @@
-# CorEssentials
+# CorEssentials ALPHA
 CorEssentials is an open source corexy 3D printer.
-
+This readme file refers to the ALPHA version of the printer. This is currently superseded by the BETA version
 
 - Built Volume: 240 mm x 250 x mm x 250 mm
 - Hotend: E3D V6 0.4mm (Bowden & direct available)
