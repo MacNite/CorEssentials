@@ -3,6 +3,7 @@ CorEssentials is an open source corexy 3D printer.
 
 ToDo until release of BETA-files
 - improve door lock meachnism, maybe with switch
+- design improved direct drive solution
 - built Prototype
 - update BOM
 
