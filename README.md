@@ -14,6 +14,7 @@ ToDo until release of BETA-files
 - 40mm more z-height
 - better idler mount for xy motion
 - better belt Tensioner for z-axis
+- improved direct drive Tool Head with quick-swab hotends
 
 # general features
 - Built Volume: 250 mm x 250 x mm x 300 mm
