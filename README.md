@@ -2,10 +2,9 @@
 CorEssentials is an open source corexy 3D printer.
 
 ToDo until release of BETA-files
-- improve door lock meachnism, maybe with switch
-- design improved direct drive solution
-- built Prototype
-- update BOM
+- built Prototype (in Progress)
+- update BOM (mostly done)
+- write assembly manual
 
 # changes compared to ALPHA
 - Bed Leveling: Hardware bed leveling with 3 independent motors
