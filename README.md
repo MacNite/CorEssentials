@@ -1,11 +1,10 @@
-# CorEssentials BETA
+# CorEssentials GAMMA
 CorEssentials is an open source corexy 3D printer.
 
 ToDo until release of BETA-files
-- built Prototype (near completion)
-- write assembly manual
 
-# changes compared to ALPHA
+
+# changes compared to ALPHA & / OR BETA
 - Bed Leveling: Hardware bed leveling with 3 independent motors
 - HEPA-Filter
 - support for Dual Extrusion with E3D Chimera AQUA
