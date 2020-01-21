@@ -2,7 +2,7 @@
 CorEssentials is an open source corexy 3D printer.
 
 ToDo until release of BETA-files
-- built Prototype (in Progress)
+- built Prototype (near completion)
 - write assembly manual
 
 # changes compared to ALPHA
