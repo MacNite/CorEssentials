@@ -51,9 +51,3 @@ ToDo until release of GAMMA-files
 - Linear Motion: CE MGN9H for xy gantry and 10mm rods for z
 - Belt driven z axis
 - Completely open source: all Fusion 360 files and .stp assembly available
-
-Find the Fusion360 model for your viewing/download pleasure here:
-
-https://a360.co/2R6NRvs
-
-![CorEssentials ALPHA](https://github.com/MacNite/CorEssentials/blob/master/CorEssentials_Outer.jpg?raw=true)
