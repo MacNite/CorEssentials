@@ -5,7 +5,7 @@ ToDo until release of GAMMA-files
 - everything
 
 # changes compared to BETA
-- increased built volume of 350 mm x 350 mm x 350 mm (comes with increased foot print)+
+- increased built volume of 300 mm x 300 mm x 300 mm (comes with increased foot print)+
 - base-frame structure built from 2020 aluminium extrusion (most people find the "plates only" design daunting because they are not able to produce the plates)
 - MGN12 rails for x- and y-axis
 - 9mm belts for x-, y- and z-axis
@@ -17,7 +17,7 @@ ToDo until release of GAMMA-files
 - special designed expansion PCB for Duet Wifi for 2 Additional (Polulu Style) stepper drivers, 2 Mosfets (LED / FAN) and 1 Thermistor
 - optional: IDEX xy Motion system Instead of CoreXY
 
-# changes compared to ALPHA & / OR BETA
+# changes compared to ALPHA
 - Bed Leveling: Hardware bed leveling with 3 independent motors
 - HEPA-Filter
 - support for Dual Extrusion with E3D Chimera AQUA
