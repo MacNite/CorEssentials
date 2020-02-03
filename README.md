@@ -1,10 +1,6 @@
 # CorEssentials BETA
 CorEssentials is an open source corexy 3D printer.
 
-ToDo until release of BETA-files
-- built Prototype (near completion)
-- write assembly manual
-
 # changes compared to ALPHA
 - Bed Leveling: Hardware bed leveling with 3 independent motors
 - HEPA-Filter
