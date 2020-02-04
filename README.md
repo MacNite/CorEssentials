@@ -41,4 +41,4 @@ Find the Fusion360 model for your viewing/download pleasure here:
 
 https://a360.co/2R6NRvs
 
-![CorEssentials ALPHA](https://github.com/MacNite/CorEssentials/blob/master/CorEssentials_Outer.jpg?raw=true)
+![CorEssentials ALPHA](https://raw.githubusercontent.com/MacNite/CorEssentials/beta/Pictures/20200131_184538.jpg)
