@@ -1,6 +1,11 @@
 # CorEssentials GAMMA
 CorEssentials is an open source corexy 3D printer.
 
+To Do list:
+- finish CAD
+- source parts
+- built the machine
+
 # changes compared to BETA
 - Base Frame built from 2020 / 2040 extrusion to make the general structure easier to built an accessible for everyone
 - z-Axis with 3 indipendent stepper Motors - now also available with leadscrews instead of belts
