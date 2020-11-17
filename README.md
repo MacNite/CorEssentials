@@ -1,6 +1,8 @@
 # CorEssentials GAMMA
 CorEssentials is an open source corexy 3D printer.
 
+# supported by https://www.cr-3d.de
+
 To Do list:
 - Built Toolhead
 
