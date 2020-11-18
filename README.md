@@ -3,8 +3,6 @@ CorEssentials is an open source corexy 3D printer.
 
 # supported by https://www.cr-3d.de
 
-To Do list:
-- Built Toolhead
 
 # changes compared to BETA
 - Base Frame built from 2020 extrusion to make the general structure easier to built and accessible for everyone
@@ -13,10 +11,10 @@ To Do list:
 - 3mm thin outer panels (instead of 6mm - can be worked with easier without a CNC)
 - support for Voron Afterburner Toolhead
 - direct drive extruder (BMG) with integrated Filament Runout Sensor (comparable to Prusa MK3S)
-- Trianglelab Dragon Hotend for easy nozzle change
-- hotend cooling with 3010 fan
+- hotend cooling with 4010 fan
 - part cooling with single 4020 blower
 - chamber temperature control with thermistor and 140x25mm Fan
+- Voron Afterburner Toolhead
 
 # changes compared to ALPHA
 - Bed Leveling: Hardware bed leveling with 3 independent motors
