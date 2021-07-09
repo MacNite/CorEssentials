@@ -36,6 +36,6 @@ VZBot https://grabcad.com/library/vzbot-1
 - Completely open source: all Fusion 360 files and .stp assembly available
 
 Find the Fusion360 model for your viewing/download pleasure here:
-LINK
+https://a360.co/3fYgmHP
 
 ![CorEssentials MK1](https://github.com/MacNite/CorEssentials/blob/MK1/pictures/CorEssentials_4.png?raw=true)
