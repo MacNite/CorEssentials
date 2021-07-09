@@ -1,9 +1,14 @@
 # CorEssentials MK1
 CorEssentials is an open source corexy 3D printer. This printer combines the best of the most popular 3D printers:
+
 Voron V1.8 / V2.4 by VoronDesign: https://vorondesign.com/
+
 HevoRT https://hevort.com/
+
 Railcore https://railcore.org/
+
 VZBot https://grabcad.com/library/vzbot-1
+
 
 # supported by https://www.cr-3d.de
 
