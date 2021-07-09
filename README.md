@@ -35,7 +35,8 @@ VZBot https://grabcad.com/library/vzbot-1
 - Linear Motion: CE MGN9H for xy gantry and 8mm rods for z
 - Completely open source: all Fusion 360 files and .stp assembly available
 
-Find the Fusion360 model for your viewing/download pleasure here:
+Find the Fusion360 model for your viewing/download pleasure here (you can download the F360 model through this link as well):
+
 https://a360.co/3fYgmHP
 
 ![CorEssentials MK1](https://github.com/MacNite/CorEssentials/blob/MK1/pictures/CorEssentials_4.png?raw=true)
