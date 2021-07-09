@@ -27,7 +27,7 @@ VZBot https://grabcad.com/library/vzbot-1
 - Filament Diameter: 1.75mm
 - Supported Filament: ABS, ASA, PC, Nylon, PETG, PLA, PP, HIPS and much more // carbon and particle filled filaments possible with different toolhead
 - Controller: Duet Mini 5+
-- Power Supply: Meanwell 24V 10A
+- Power Supply: Meanwell 24V 10A, second PSU for High Voltage Stepper Drivers possible
 - Coldend cooling: 3010 axial fan
 - Part cooling: 1x 4020 blower fan
 - Chamber fan & filtration: 6010 blower fan
