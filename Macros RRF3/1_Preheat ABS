@@ -1,0 +1,2 @@
+M104 T255 ; set extruder temp
+M140 S95 ; set bed temp
